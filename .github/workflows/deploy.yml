@@ -10,8 +10,8 @@ env:
   # Postgres
   POSTGRESQL_VERSION: 14.2
   POSTGRESQL_DB: juliang22
-  POSTGRESQL_USER: postgres
-  POSTGRESQL_PASSWORD: password
+  POSTGRESQL_USER: juliang22
+  POSTGRESQL_PASSWORD: Jujubee22
   # Java
   JAVA_VERSION: 17
   # DockerHub
