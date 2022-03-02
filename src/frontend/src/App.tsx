@@ -2,7 +2,7 @@ import React from 'react';
 import './App.css';
 import { QueryClient, QueryClientProvider } from 'react-query';
 import { ReactQueryDevtools } from 'react-query/devtools'
-import Students from './components/Students';
+import PageLayout from './components/Layout';
 
 
 const queryClient = new QueryClient()
@@ -12,7 +12,7 @@ function App() {
   return (
     <QueryClientProvider client={queryClient}>
       <ReactQueryDevtools initialIsOpen={false} />
-      <Students />
+      <PageLayout />
     </QueryClientProvider>
   );
 }
