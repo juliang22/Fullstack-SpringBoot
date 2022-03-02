@@ -30,6 +30,7 @@ jobs:
       - uses: actions/checkout@v2
       - uses: actions/setup-java@v2
         with:
+          distribution: 'zulu'
           java-version: '17'
       - name: Maven Clean Package
         run: |
