@@ -5,5 +5,5 @@ services:
     ports:
       - "80:8080"
     environment:
-      - "SPRING_PROFILES_ACTIVE=dev"
+      - SPRING_ACTIVE_PROFILES=dev
     restart: "always"
