@@ -5,3 +5,4 @@ Full Stack React/SpringBoot app made with the help of this tutorial: https://git
 
 https://user-images.githubusercontent.com/39292521/156669923-9a085ecc-c6a3-4cc6-b836-27b90f445db9.mov
 
+![Screen Shot 2022-03-03 at 3 30 32 PM](https://user-images.githubusercontent.com/39292521/156670636-24fb480e-2f89-46a5-8701-eb5fff63a963.jpg)
