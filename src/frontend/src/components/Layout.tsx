@@ -54,7 +54,9 @@ function PageLayout() {
 				</div>
 			</Content>
 			<Footer style={{ textAlign: 'center' }}>
-				Julian Grunauer 2022
+				<a href="http://juliangrunauer.com/" target='_blank' rel="noreferrer" >
+					Julian Grunauer 2022
+				</a>
 			</Footer>
 		</Layout>
 	</Layout>

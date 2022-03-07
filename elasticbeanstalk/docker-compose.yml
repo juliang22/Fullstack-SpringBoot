@@ -1,0 +1,9 @@
+version: "3.8"
+services:
+  backend:
+    image: "juliang22/fullstack-springboot:2.3.2022.23.12.53"
+    ports:
+      - "80:8080"
+    environment:
+      - SPRING_ACTIVE_PROFILES=dev
+    restart: "always"
